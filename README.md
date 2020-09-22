@@ -1,0 +1,1 @@
+# Quantopian-Algo-for-bear-market
